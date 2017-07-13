@@ -1,0 +1,30 @@
+{
+  "name": "content-moderator",
+  "version": "1.0.0",
+  "description": "A wrapper for the Content Moderator endpoint to allow easier interaction from node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelnicole/content-moderator.git"
+  },
+  "keywords": [
+    "microsoft",
+    "nodejs",
+    "node",
+    "moderation",
+    "content-moderator",
+    "cognitive",
+    "services",
+    "machine",
+    "learning"
+  ],
+  "author": "Rachel White <loveless@gmail.com> (http://rachelisaweso.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rachelnicole/content-moderator/issues"
+  },
+  "homepage": "https://github.com/rachelnicole/content-moderator#readme"
+}
