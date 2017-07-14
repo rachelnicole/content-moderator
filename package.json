@@ -4,7 +4,8 @@
   "description": "A wrapper for the Content Moderator endpoint to allow easier interaction from node.js",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/rachelnicole/content-moderator/issues"
   },
-  "homepage": "https://github.com/rachelnicole/content-moderator#readme"
+  "homepage": "https://github.com/rachelnicole/content-moderator#readme",
+  "devDependencies": {
+    "jest-cli": "^20.0.4"
+  }
 }
