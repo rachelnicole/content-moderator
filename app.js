@@ -1,7 +1,8 @@
 'use strict';
 
 var request = require('request'),
-    config = require('./config'),data = 'what the fuck is your problem';
+    config = require('./config'),
+    data = 'what the fuck is your problem';
 
 request({
   // header params, content type is optional, sub key is required.

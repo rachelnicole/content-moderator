@@ -28,7 +28,7 @@
     "url": "https://github.com/rachelnicole/content-moderator/issues"
   },
   "homepage": "https://github.com/rachelnicole/content-moderator#readme",
-  "devDependencies": {
-    "jest-cli": "^20.0.4"
+  "dependencies": {
+    "request": "^2.81.0"
   }
 }
