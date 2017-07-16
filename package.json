@@ -2,10 +2,8 @@
   "name": "content-moderator",
   "version": "1.0.0",
   "description": "A wrapper for the Content Moderator endpoint to allow easier interaction from node.js",
-  "main": "app.js",
+  "main": "lib/moderate.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "jest"
   },
   "repository": {
     "type": "git",
