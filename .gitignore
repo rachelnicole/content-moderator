@@ -5,4 +5,7 @@ node_modules
 // get your own keys at https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/
 config.js
 
+//for my own testing
+index.js
+
 package-lock.json
